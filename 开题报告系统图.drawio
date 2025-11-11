@@ -4,8 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CgnBCb8XCIqyRjoBwQn8-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;多智能体驱动的电力&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;算力协同调度系统&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgnBCb8XCIqyRjoBwQn8-1" target="DCy0bdudYqnDMQA8AuwL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgnBCb8XCIqyRjoBwQn8-1" target="DCy0bdudYqnDMQA8AuwL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgnBCb8XCIqyRjoBwQn8-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;多智能体驱动的电力&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; font-weight: bold;&quot;&gt;算力协同调度系统&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-1" value="&lt;span style=&quot;font-size: 20px; font-family: 微软雅黑; font-weight: bold;&quot;&gt;功能模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-2" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;系统接口&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 20px; font-weight: 700;&quot;&gt;业务感知模块&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-6" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 20px; font-weight: 700;&quot;&gt;电算耦合表征模块&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-7" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 20px; font-weight: 700;&quot;&gt;电算协同调度模块&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DCy0bdudYqnDMQA8AuwL-8" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 20px; font-weight: 700;&quot;&gt;仿真与评估模块&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
